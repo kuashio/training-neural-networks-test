@@ -1,4 +1,4 @@
-#include "MLP.h"
+#include "MLP.h" //HEY
 
 double frand(){
 	return (2.0*(double)rand() / RAND_MAX) - 1.0;
